@@ -1,5 +1,5 @@
 ## Hey Visitors
-![visitor](https://profile-counter.glitch.me/yokwejuste/count.svg)
+![visitor](https://profile-counter.glitch.me/akum2/count.svg)
 
 ## Contributions
 <p align="center">
