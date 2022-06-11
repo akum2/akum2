@@ -83,7 +83,7 @@ HTML                     2 repos             ███████████�
  Last Updated on 11/06/2022 15:57:29 UTC
 <!--END_SECTION:waka-->
 
-<h2>My Social links<h2>
+<h2>My Social links <h2>
 <p align="center">
   <a href="https://twitter.com/Okobiona"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/okobi-neris-akum-681bb4199"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
