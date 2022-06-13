@@ -7,7 +7,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-78-blue)
 
@@ -17,7 +17,7 @@
 
 > 🏆 31 Contributions in the Year 2022
  > 
-> 📦 25.8 kB Used in GitHub's Storage 
+> 📦 30.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -54,16 +54,16 @@ Sunday       4 commits      █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-Other                    1 hr 32 mins        █████████████████████████   100.0%
+Other                    1 hr 36 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
-Browser                  1 hr 32 mins        █████████████████████████   100.0%
+Browser                  1 hr 36 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 32 mins        █████████████████████████   100.0%
+Unknown Project          1 hr 36 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  1 hr 32 mins        █████████████████████████   100.0%
+Windows                  1 hr 36 mins        █████████████████████████   100.0%
 
 ```
 
@@ -80,7 +80,7 @@ HTML                     2 repos             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/akum2/akum2/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/06/2022 02:25:17 UTC
+ Last Updated on 13/06/2022 02:04:27 UTC
 <!--END_SECTION:waka-->
 
 <h2>My Social links <h2>
