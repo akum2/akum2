@@ -7,7 +7,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-78-blue)
 
@@ -54,16 +54,16 @@ Sunday       4 commits      █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-Other                    5 hrs 49 mins       █████████████████████████   100.0%
+Other                    7 hrs 58 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-Browser                  5 hrs 49 mins       █████████████████████████   100.0%
+Browser                  7 hrs 58 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Unknown Project          5 hrs 49 mins       █████████████████████████   100.0%
+Unknown Project          7 hrs 58 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  5 hrs 49 mins       █████████████████████████   100.0%
+Windows                  7 hrs 58 mins       █████████████████████████   100.0%
 
 ```
 
@@ -80,7 +80,7 @@ HTML                     2 repos             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/akum2/akum2/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/06/2022 01:57:02 UTC
+ Last Updated on 17/06/2022 01:58:54 UTC
 <!--END_SECTION:waka-->
 
 <h2>My Social links <h2>
