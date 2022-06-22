@@ -7,7 +7,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-78-blue)
 
@@ -87,7 +87,7 @@ HTML                     2 repos             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/akum2/akum2/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/06/2022 02:21:22 UTC
+ Last Updated on 22/06/2022 02:08:59 UTC
 <!--END_SECTION:waka-->
 
 <h2>My Social links <h2>
