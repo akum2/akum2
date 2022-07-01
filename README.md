@@ -82,7 +82,7 @@ Jupyter Notebook         1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/akum2/akum2/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/07/2022 02:31:41 UTC
+ Last Updated on 01/07/2022 02:32:03 UTC
 <!--END_SECTION:waka-->
 
 <h2>My Social links <h2>
