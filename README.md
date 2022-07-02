@@ -7,7 +7,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -71,8 +71,7 @@ Windows                  29 mins             ███████████�
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     1 repo              ████████████░░░░░░░░░░░░░   50.0% 
-Jupyter Notebook         1 repo              ████████████░░░░░░░░░░░░░   50.0%
+HTML                     2 repos             █████████████████████████   100.0%
 
 ```
 
@@ -82,7 +81,7 @@ Jupyter Notebook         1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/akum2/akum2/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/07/2022 02:35:53 UTC
+ Last Updated on 02/07/2022 02:03:16 UTC
 <!--END_SECTION:waka-->
 
 <h2>My Social links <h2>
