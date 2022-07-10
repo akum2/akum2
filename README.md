@@ -7,9 +7,9 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16%20Thousand%20lines%20of%20code-blue)
 
@@ -54,16 +54,16 @@ Sunday       4 commits      ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-Other                    3 hrs 38 mins       █████████████████████████   100.0%
+Other                    7 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-Browser                  3 hrs 38 mins       █████████████████████████   100.0%
+Browser                  7 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-cmrplagio                3 hrs 38 mins       █████████████████████████   100.0%
+cmrplagio                7 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  3 hrs 38 mins       █████████████████████████   100.0%
+Windows                  7 mins              █████████████████████████   100.0%
 
 ```
 
@@ -80,7 +80,7 @@ HTML                     2 repos             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/akum2/akum2/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/07/2022 02:10:54 UTC
+ Last Updated on 10/07/2022 02:14:44 UTC
 <!--END_SECTION:waka-->
 
 <h2>My Social links <h2>
