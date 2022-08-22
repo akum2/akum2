@@ -17,7 +17,7 @@
 
 > 🏆 41 Contributions in the Year 2022
  > 
-> 📦 31.7 kB Used in GitHub's Storage 
+> 📦 31.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -25,48 +25,6 @@
  > 
 > 🔑 0 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-🌆 Daytime    20 commits     ███████████████████░░░░░░   76.92% 
-🌃 Evening    4 commits      ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       5 commits      ████░░░░░░░░░░░░░░░░░░░░░   19.23% 
-Tuesday      1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.85% 
-Wednesday    2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-Thursday     8 commits      ███████░░░░░░░░░░░░░░░░░░   30.77% 
-Friday       2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-Saturday     4 commits      ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-Sunday       4 commits      ███░░░░░░░░░░░░░░░░░░░░░░   15.38%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Africa/Lagos
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in HTML** 
 
 ```text
@@ -80,7 +38,7 @@ HTML                     2 repos             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/akum2/akum2/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/08/2022 02:21:29 UTC
+ Last Updated on 22/08/2022 02:09:45 UTC
 <!--END_SECTION:waka-->
 
 <h2>My Social links <h2>
