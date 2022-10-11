@@ -17,7 +17,7 @@
 
 > 🏆 41 Contributions in the Year 2022
  > 
-> 📦 32.3 kB Used in GitHub's Storage 
+> 📦 32.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -80,7 +80,7 @@ HTML                     2 repos             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/akum2/akum2/main/charts/bar_graph.png) 
 
 
- Last Updated on 10/10/2022 02:44:23 UTC
+ Last Updated on 11/10/2022 02:24:42 UTC
 <!--END_SECTION:waka-->
 
 <h2>My Social links <h2>
