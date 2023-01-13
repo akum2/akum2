@@ -15,7 +15,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 41 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2023
  > 
 > 📦 32.7 kB Used in GitHub's Storage 
  > 
@@ -80,7 +80,7 @@ HTML                     2 repos             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/akum2/akum2/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/11/2022 02:24:11 UTC
+ Last Updated on 13/01/2023 01:39:05 UTC
 <!--END_SECTION:waka-->
 
 <h2>My Social links <h2>
