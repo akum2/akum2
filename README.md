@@ -77,7 +77,7 @@ HTML                     2 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/akum2/akum2/main/assets/bar_graph.png)
 
 
- Last Updated on 14/03/2023 10:17:41 UTC
+ Last Updated on 14/03/2023 10:18:14 UTC
 <!--END_SECTION:waka-->
 
 <h2>My Social links <h2>
