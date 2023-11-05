@@ -15,7 +15,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 112.3 kB Used in GitHub's Storage 
+> 📦 112.4 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2023
  > 
@@ -77,7 +77,7 @@ HTML                     2 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/akum2/akum2/main/assets/bar_graph.png)
 
 
- Last Updated on 05/11/2023 08:38:33 UTC
+ Last Updated on 05/11/2023 08:39:18 UTC
 <!--END_SECTION:waka-->
 
 <h2>My Social links <h2>
