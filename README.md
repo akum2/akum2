@@ -7,8 +7,6 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2022%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
@@ -25,45 +23,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-🌆 Daytime                38 commits          ███████████████████░░░░░░   76.00 % 
-🌃 Evening                8 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   11 commits          ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
-Tuesday                  2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-Wednesday                5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Thursday                 16 commits          ████████░░░░░░░░░░░░░░░░░   32.00 % 
-Friday                   4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Saturday                 4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Sunday                   8 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Lagos
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in HTML** 
 
 ```text
@@ -77,7 +36,7 @@ HTML                     2 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/akum2/akum2/main/assets/bar_graph.png)
 
 
- Last Updated on 03/11/2024 01:57:23 UTC
+ Last Updated on 04/11/2024 01:41:56 UTC
 <!--END_SECTION:waka-->
 
 <h2>My Social links <h2>
