@@ -17,8 +17,6 @@
 
 > 📦 161.5 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 7 Public Repositories 
@@ -77,7 +75,7 @@ HTML                     2 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/akum2/akum2/main/assets/bar_graph.png)
 
 
- Last Updated on 05/12/2024 23:30:54 UTC
+ Last Updated on 05/12/2024 23:31:45 UTC
 <!--END_SECTION:waka-->
 
 <h2>My Social links <h2>
