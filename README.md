@@ -25,6 +25,45 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+🌆 Daytime                38 commits          ███████████████████░░░░░░   76.00 % 
+🌃 Evening                8 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   11 commits          ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
+Tuesday                  2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Wednesday                5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Thursday                 16 commits          ████████░░░░░░░░░░░░░░░░░   32.00 % 
+Friday                   4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Saturday                 4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Sunday                   8 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Lagos
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in HTML** 
 
 ```text
@@ -38,7 +77,7 @@ HTML                     2 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/akum2/akum2/main/assets/bar_graph.png)
 
 
- Last Updated on 07/12/2024 01:50:01 UTC
+ Last Updated on 07/12/2024 01:50:58 UTC
 <!--END_SECTION:waka-->
 
 <h2>My Social links <h2>
