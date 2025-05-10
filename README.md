@@ -17,8 +17,6 @@
 
 > 📦 209.8 kB Used in GitHub's Storage 
  > 
-> 🏆 2 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 8 Public Repositories 
@@ -78,7 +76,7 @@ JavaScript               1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/akum2/akum2/main/assets/bar_graph.png)
 
 
- Last Updated on 10/05/2025 19:04:19 UTC
+ Last Updated on 10/05/2025 19:05:21 UTC
 <!--END_SECTION:waka-->
 
 <h2>My Social links <h2>
