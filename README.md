@@ -9,13 +9,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2022%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 248.0 kB Used in GitHub's Storage 
+> 📦 248.1 kB Used in GitHub's Storage 
  > 
 > 🏆 2 Contributions in the Year 2025
  > 
@@ -78,7 +78,7 @@ JavaScript               1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/akum2/akum2/main/assets/bar_graph.png)
 
 
- Last Updated on 25/10/2025 17:40:52 UTC
+ Last Updated on 26/10/2025 01:56:00 UTC
 <!--END_SECTION:waka-->
 
 <h2>My Social links <h2>
