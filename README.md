@@ -11,7 +11,7 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.59%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -78,7 +78,7 @@ JavaScript               1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/akum2/akum2/main/assets/bar_graph.png)
 
 
- Last Updated on 01/01/2026 08:15:44 UTC
+ Last Updated on 01/01/2026 08:17:01 UTC
 <!--END_SECTION:waka-->
 
 <h2>My Social links <h2>
